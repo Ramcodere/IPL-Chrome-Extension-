@@ -1,0 +1,15 @@
+{
+    "name":"Ipl 2024 Extention",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "author": "Ram Kusharam",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "logo1.png"
+    },
+    "icons": {
+        "128": "logo1.png"
+    },
+    "permissions": ["activeTab"]
+}
+
